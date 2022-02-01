@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Bienvenidos a la página de los ejercicios de programación de Santiago Monsalve 
 
-You can use the [editor on GitHub](https://github.com/s4ntiage/EjerciciosProgramacion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En esta página, guardaré todos los ejercicios del curos, espero tener conocimiento y control de las actividades a lo largo del curso 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Nuevo y arriesgado 
 
-### Markdown
+Confieso no ser tan bueno y lo expresé al principio del curso, me daba miedo esto de la programación, pero ahora estoy bastante emocionado porque me esta gustando, me esta interesando y me parece divertido 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sobre mi 
+Soy una persona que le agrada estar aprendiendo cosas nuevas constantemente, no me considero alguien ingenioso para la tecnologia y la informatica, pero me considero una persona arriesgada con ganas de vencer sus miedos y de aprender muchas cosas nuevas, me gustan las cosas cuando las sé controlar 
 
-```markdown
-Syntax highlighted code block
+## Ejercicios 
+Aqui guardaremos los ejercicios a lo largpo del curso 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s4ntiage/EjerciciosProgramacion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Proyecto 
+En este apartado escribiremos sobre los proyectos 
